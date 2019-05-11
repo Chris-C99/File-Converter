@@ -1,7 +1,7 @@
 # File Converter
 #### *Disclaimers ::
->>Code only works on linux based operating systems.
->>For the program to run correctly make sure xdg and gedit are installed.
+>Code only works on linux based operating systems.
+> >For the program to run correctly make sure xdg and gedit are installed.
 # __Installation__
 #### __Step 1:__  First you must clone the repository to your computer.
 ```sh
