@@ -17,7 +17,7 @@ $ cd <your-installation-directory>/Converter
 ```sh
 $ ./converter
 ```
-# __Usage__
 #
+# __Usage__
 ##### When entering a file input or output into the program, make sure to include the 
 ##### full file path, which includes the directory as well as the file name.
