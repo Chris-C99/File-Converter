@@ -6,7 +6,6 @@
 #
 # __Installation__
 #
-#
 #### __Step 1:__  First you must clone the repository to your computer.
 ```sh
 $ git clone https://github.com/RogueWorm/File-Converter.git
@@ -21,7 +20,6 @@ $ cd <your-installation-directory>/Converter
 ```sh
 $ ./converter
 ```
-#
 #
 # __Usage__
 ##### When entering a file input or output into the program, make sure to include the 
