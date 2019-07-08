@@ -13,7 +13,12 @@ $ git clone https://github.com/RogueWorm/File-Converter.git
 $ cd <your-installation-directory>/Converter
 ```
 #
-#### __Step 3:__ Run the program
+#### __Step 3:__ Make program execuatable.
+```sh
+$ chmod +x converter
+```
+#
+#### __Step 4:__ Run the program
 ```sh
 $ ./converter
 ```
